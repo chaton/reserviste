@@ -341,3 +341,4 @@ MigrationBackup/
 
 #PHPStorm files
 *.idea
+.DS_Store
